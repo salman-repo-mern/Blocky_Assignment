@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Vehicle Route Simulator",
+  "description": "A web application that simulates a vehicle's journey along a predefined route on an interactive map, with controls to start, stop, and monitor the simulation.",
+  "requestFramePermissions": []
+}
